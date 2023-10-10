@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "910135624085",
+    "project_id": "messangerapp-90f76",
+    "storage_bucket": "messangerapp-90f76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910135624085:android:5f6c66c6fcdfa6701a369c",
+        "android_client_info": {
+          "package_name": "com.abdelmoneam.messanger.messanger_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABGsauLHDhfpkqxnCO69LBFpkUoxo5Qqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
